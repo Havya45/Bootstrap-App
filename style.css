@@ -1,0 +1,44 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: rgb(43, 142, 230);
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel{
+    background-color:rgb(114, 114, 233);
+}
+
+#myCarousel img{
+    margin-top:35px;
+}
+
+.carousel-inner p{
+    margin-top:25px;
+    margin-bottom:25px;
+    font-size:35px;
+    font-family:'Times New Roman', Times, serif;
+    color:darkorange;
+}
+
+#myCarousel2{
+    background-color:rgb(114, 233, 134);
+}
+
+#myCarousel2 img{
+    margin-top:35px;
+}
+
+.carousel-inner p{
+    margin-top:25px;
+    margin-bottom:25px;
+    font-size:35px;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(5, 20, 228);
+}
+
+
